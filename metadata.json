@@ -1,0 +1,5 @@
+{
+  "name": "TowelMatch",
+  "description": "An AI-powered tool to transfer the color and pattern of a source towel onto a reference towel while preserving its original texture and shape.",
+  "requestFramePermissions": []
+}
